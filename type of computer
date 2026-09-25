@@ -1,0 +1,8 @@
+1. Classification by Data Processing Capabilities
+This category defines how a computer processes internal signals and data types.
+• Analog Computers: These process continuous, physical quantities that vary constantly (such as voltage, pressure, or temperature) instead of numerical digits.
+	• Primary Examples: Analog speedometers, flight simulators, and mechanical thermometers.
+• Digital Computers: These process information in discrete, binary formats using 0s and 1s. They execute mathematical operations and logical instructions at high speeds.
+	• Primary Examples: Modern personal laptops, smartphones, and smart TVs.
+• Hybrid Computers: These combine the features of both systems. They accept continuous analog inputs, convert them into binary, and process them with high digital precision.
+	• Primary Examples: Heart rate monitors in hospital Intensive Care Units (ICUs) and electronic fuel pumps.
